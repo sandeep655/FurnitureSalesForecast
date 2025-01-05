@@ -37,7 +37,7 @@ FurnitureSalesForecast/
 #### 1. Setup Environment
 - Clone this repository to your local machine:
     ```bash
-    $ git clone https://github.com/sandeep655/ts-dashboard/tree/main
+    $ git clone https://github.com/sandeep655/FurnitureSalesForecast
     ```
 - Create a new Conda Environment:
     ```bash
